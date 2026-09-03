@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./care-lab-logo.png" alt="Purdue CARE Lab" width="300">
+  <img src="./care-lab-logo.png" alt="Purdue CARE Lab" width="220">
 </p>
 
 <h1 align="center">Purdue CARE Lab</h1>
